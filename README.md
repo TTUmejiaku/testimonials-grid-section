@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/TTUmejiaku/testimonials-grid-section.git)
-- Live Site URL: [Add live site URL here](https://ttumejiaku-testimonials-grid-section.netlify.app/)
+- Solution URL: (https://github.com/TTUmejiaku/testimonials-grid-section.git)
+- Live Site URL: (https://ttumejiaku-testimonials-grid-section.netlify.app/)
 
 ## My process
 
